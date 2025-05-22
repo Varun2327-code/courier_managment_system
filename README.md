@@ -3,7 +3,7 @@ Courier Managment System in PHP
 
 ====================================================================================
 
-Language Used: PHP, HTML, CSS, Bootstrap, JavaScript, jQuery, AJAX, JSON
+Language Used: PHP, HTML, CSS, Bootstrap, JavaScript
 Database: MySQL
 
 =====================================================================================
